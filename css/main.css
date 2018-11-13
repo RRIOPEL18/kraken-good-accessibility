@@ -3,6 +3,10 @@ html {
   color: #222;
 }
 
+.btn {
+  color: #fff;
+}
+
 .max-length {
   max-width: 42em;
 }
