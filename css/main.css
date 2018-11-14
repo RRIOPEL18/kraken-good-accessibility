@@ -68,6 +68,7 @@ html {
   .masthead,
   .footer {
     display: none;
+    border-color: #000;
   }
 
 }
