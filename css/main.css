@@ -63,7 +63,9 @@ html {
 }
 
 @media print {
-  {
-
+  .masthead,
+  .inset-img,
+  .footer {
+    display: none;
   }
 }
